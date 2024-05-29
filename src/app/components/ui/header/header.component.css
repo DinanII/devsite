@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    margin: 0% 0% 1% 0%;
+}
+h2 {
+    margin-left: 10%;
+}
+nav {
+    background-color: rgba(255, 255, 255, 0.5);
+    display: inline;
+    padding: 0.5%;
+    display: flex;
+    border-radius: 5vw;
+}
+
+.navItem {
+    /* display: inline; */
+    background-color: azure;
+    padding: 0.5%;
+    margin: 0% 3% 0% 3%;
+}
+header {
+    padding: 0.5%;
+}
