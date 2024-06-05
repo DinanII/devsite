@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { SharedModule } from '../modules/shared.module';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
