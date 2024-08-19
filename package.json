@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:devsite": "node dist/devsite/server/server.mjs"
+    "serve:ssr:devsite": "node dist/devsite/server/server.mjs",
+    "prerender": "ng run devsite:prerender"
   },
   "private": true,
   "dependencies": {
